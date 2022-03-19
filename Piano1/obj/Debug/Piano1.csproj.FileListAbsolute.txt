@@ -1,0 +1,21 @@
+D:\C#\Piano1\Piano1\bin\Debug\Piano1.exe.config
+D:\C#\Piano1\Piano1\bin\Debug\Piano1.exe
+D:\C#\Piano1\Piano1\bin\Debug\Piano1.pdb
+D:\C#\Piano1\Piano1\obj\Debug\Piano1.csprojAssemblyReference.cache
+D:\C#\Piano1\Piano1\obj\Debug\Piano1.Form1.resources
+D:\C#\Piano1\Piano1\obj\Debug\Piano1.Properties.Resources.resources
+D:\C#\Piano1\Piano1\obj\Debug\Piano1.csproj.GenerateResource.cache
+D:\C#\Piano1\Piano1\obj\Debug\Piano1.csproj.CoreCompileInputs.cache
+D:\C#\Piano1\Piano1\obj\Debug\Piano1.exe
+D:\C#\Piano1\Piano1\obj\Debug\Piano1.pdb
+D:\Old Laptop\Work\C#\Piano1\Piano1\bin\Debug\Piano1.exe.config
+D:\Old Laptop\Work\C#\Piano1\Piano1\bin\Debug\Piano1.exe
+D:\Old Laptop\Work\C#\Piano1\Piano1\bin\Debug\Piano1.pdb
+D:\Old Laptop\Work\C#\Piano1\Piano1\obj\Debug\Piano1.csproj.AssemblyReference.cache
+D:\Old Laptop\Work\C#\Piano1\Piano1\obj\Debug\Piano1.csproj.SuggestedBindingRedirects.cache
+D:\Old Laptop\Work\C#\Piano1\Piano1\obj\Debug\Piano1.Form1.resources
+D:\Old Laptop\Work\C#\Piano1\Piano1\obj\Debug\Piano1.Properties.Resources.resources
+D:\Old Laptop\Work\C#\Piano1\Piano1\obj\Debug\Piano1.csproj.GenerateResource.cache
+D:\Old Laptop\Work\C#\Piano1\Piano1\obj\Debug\Piano1.csproj.CoreCompileInputs.cache
+D:\Old Laptop\Work\C#\Piano1\Piano1\obj\Debug\Piano1.exe
+D:\Old Laptop\Work\C#\Piano1\Piano1\obj\Debug\Piano1.pdb
